@@ -24,3 +24,14 @@ h3{
 	text-transform: none;
 	letter-spacing: 0.01em;
 }
+
+div.container{
+	display: block;
+	width: 100%;
+}
+
+input[type="color"] {
+    appearance: auto;
+    width: 60px;
+    height: 30px;
+}
